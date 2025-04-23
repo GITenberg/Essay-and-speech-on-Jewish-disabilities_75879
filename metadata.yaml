@@ -1,0 +1,42 @@
+_repo: Essay-and-speech-on-Jewish-disabilities_75879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macaulay, Thomas Babington Macaulay, Baron
+    aliases:
+    - Macaulay, Lord (Thomas Babington Macaulay)
+    - Macaulay, T. Babington (Thomas Babington)
+    - Macaulay, Thomas Babington
+    birthdate: 1800
+    deathdate: 1859
+    gutenberg_agent_id: '443'
+    url: http://www.gutenberg.org/2009/agents/443
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay
+  editors:
+  - agent_name: Abraham, Israel
+    gutenberg_agent_id: '58194'
+    url: http://www.gutenberg.org/2009/agents/58194
+  - agent_name: Levy, Solomon
+    gutenberg_agent_id: '58195'
+    url: http://www.gutenberg.org/2009/agents/58195
+description: ''
+gutenberg_issued: '2025-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75879'
+language: en
+pgterms:marc904: https://archive.org/details/essayspeechonjew00macauoft/page/n5/mode/2up
+pgterms:marc905: 20200512034426macaulay
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aEdinburgh :$bJewish Historical Society of England, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essay and speech on Jewish disabilities
+url: http://www.gutenberg.org/ebooks/75879
